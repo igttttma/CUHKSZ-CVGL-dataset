@@ -1,0 +1,1748 @@
+{
+  "dataset": "CUHKSZ-CVGL",
+  "source_satellite": "cuhksz_satellite_z19_125pct.png",
+  "source_satellite_metadata": "cuhksz_satellite_z19_125pct.json",
+  "annotations": "annotations.json",
+  "denseuav_alignment": {
+    "crop_sizes_px": [
+      384,
+      512,
+      640
+    ],
+    "output_size": 512,
+    "center_spacing_m": 20
+  },
+  "frame_fps": 0.25,
+  "frame_size": [
+    1440,
+    1080
+  ],
+  "classes": [
+    {
+      "id": "000000",
+      "name": "ROI4",
+      "center_px": [
+        4614,
+        2805
+      ],
+      "center_latlon": [
+        22.68980537,
+        114.2057329
+      ],
+      "frames": [
+        {
+          "video": "CD",
+          "frame": 0
+        }
+      ]
+    },
+    {
+      "id": "000001",
+      "name": "ROI4",
+      "center_px": [
+        4542,
+        2732
+      ],
+      "center_latlon": [
+        22.68998602,
+        114.20553978
+      ],
+      "frames": [
+        {
+          "video": "CD",
+          "frame": 1
+        }
+      ]
+    },
+    {
+      "id": "000002",
+      "name": "ROI4",
+      "center_px": [
+        4469,
+        2660
+      ],
+      "center_latlon": [
+        22.69016419,
+        114.20534398
+      ],
+      "frames": [
+        {
+          "video": "CD",
+          "frame": 2
+        }
+      ]
+    },
+    {
+      "id": "000003",
+      "name": "ROI4",
+      "center_px": [
+        4687,
+        2587
+      ],
+      "center_latlon": [
+        22.69034483,
+        114.2059287
+      ],
+      "frames": [
+        {
+          "video": "CD",
+          "frame": 3
+        }
+      ]
+    },
+    {
+      "id": "000004",
+      "name": "ROI4",
+      "center_px": [
+        4759,
+        2587
+      ],
+      "center_latlon": [
+        22.69034483,
+        114.20612182
+      ],
+      "frames": [
+        {
+          "video": "CD",
+          "frame": 4
+        },
+        {
+          "video": "CD",
+          "frame": 5
+        }
+      ]
+    },
+    {
+      "id": "000005",
+      "name": "ROI4",
+      "center_px": [
+        4832,
+        2660
+      ],
+      "center_latlon": [
+        22.69016419,
+        114.20631762
+      ],
+      "frames": [
+        {
+          "video": "CD",
+          "frame": 6
+        },
+        {
+          "video": "CD",
+          "frame": 8
+        },
+        {
+          "video": "CD",
+          "frame": 9
+        },
+        {
+          "video": "CD",
+          "frame": 10
+        }
+      ]
+    },
+    {
+      "id": "000006",
+      "name": "ROI4",
+      "center_px": [
+        4905,
+        2660
+      ],
+      "center_latlon": [
+        22.69016419,
+        114.20651342
+      ],
+      "frames": [
+        {
+          "video": "CD",
+          "frame": 7
+        }
+      ]
+    },
+    {
+      "id": "000007",
+      "name": "ROI4",
+      "center_px": [
+        4905,
+        2805
+      ],
+      "center_latlon": [
+        22.68980537,
+        114.20651342
+      ],
+      "frames": [
+        {
+          "video": "CD",
+          "frame": 11
+        },
+        {
+          "video": "CD",
+          "frame": 12
+        }
+      ]
+    },
+    {
+      "id": "000008",
+      "name": "ROI4",
+      "center_px": [
+        4832,
+        2878
+      ],
+      "center_latlon": [
+        22.68962472,
+        114.20631762
+      ],
+      "frames": [
+        {
+          "video": "CD",
+          "frame": 13
+        }
+      ]
+    },
+    {
+      "id": "000009",
+      "name": "ROI1",
+      "center_px": [
+        1647,
+        504
+      ],
+      "center_latlon": [
+        22.69549942,
+        114.19777478
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 0
+        }
+      ]
+    },
+    {
+      "id": "000010",
+      "name": "ROI1",
+      "center_px": [
+        1720,
+        576
+      ],
+      "center_latlon": [
+        22.69532125,
+        114.19797059
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 1
+        }
+      ]
+    },
+    {
+      "id": "000011",
+      "name": "ROI1",
+      "center_px": [
+        1865,
+        649
+      ],
+      "center_latlon": [
+        22.6951406,
+        114.19835951
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 2
+        }
+      ]
+    },
+    {
+      "id": "000012",
+      "name": "ROI1",
+      "center_px": [
+        1793,
+        794
+      ],
+      "center_latlon": [
+        22.69478179,
+        114.19816639
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 3
+        }
+      ]
+    },
+    {
+      "id": "000013",
+      "name": "ROI1",
+      "center_px": [
+        1793,
+        867
+      ],
+      "center_latlon": [
+        22.69460114,
+        114.19816639
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 4
+        }
+      ]
+    },
+    {
+      "id": "000014",
+      "name": "ROI1",
+      "center_px": [
+        1720,
+        1012
+      ],
+      "center_latlon": [
+        22.69424232,
+        114.19797059
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 5
+        }
+      ]
+    },
+    {
+      "id": "000015",
+      "name": "ROI1",
+      "center_px": [
+        1647,
+        1157
+      ],
+      "center_latlon": [
+        22.69388351,
+        114.19777478
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 6
+        }
+      ]
+    },
+    {
+      "id": "000016",
+      "name": "ROI1",
+      "center_px": [
+        1575,
+        1012
+      ],
+      "center_latlon": [
+        22.69424232,
+        114.19758167
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 7
+        }
+      ]
+    },
+    {
+      "id": "000017",
+      "name": "ROI1",
+      "center_px": [
+        1430,
+        1012
+      ],
+      "center_latlon": [
+        22.69424232,
+        114.19719275
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 8
+        }
+      ]
+    },
+    {
+      "id": "000018",
+      "name": "ROI1",
+      "center_px": [
+        1357,
+        1012
+      ],
+      "center_latlon": [
+        22.69424232,
+        114.19699694
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 9
+        }
+      ]
+    },
+    {
+      "id": "000019",
+      "name": "ROI1",
+      "center_px": [
+        1357,
+        1085
+      ],
+      "center_latlon": [
+        22.69406168,
+        114.19699694
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 10
+        }
+      ]
+    },
+    {
+      "id": "000020",
+      "name": "ROI1",
+      "center_px": [
+        1212,
+        1157
+      ],
+      "center_latlon": [
+        22.69388351,
+        114.19660802
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 11
+        },
+        {
+          "video": "houhan",
+          "frame": 12
+        }
+      ]
+    },
+    {
+      "id": "000021",
+      "name": "ROI1",
+      "center_px": [
+        1212,
+        939
+      ],
+      "center_latlon": [
+        22.69442297,
+        114.19660802
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 13
+        }
+      ]
+    },
+    {
+      "id": "000022",
+      "name": "ROI1",
+      "center_px": [
+        1212,
+        794
+      ],
+      "center_latlon": [
+        22.69478179,
+        114.19660802
+      ],
+      "frames": [
+        {
+          "video": "houhan",
+          "frame": 14
+        }
+      ]
+    },
+    {
+      "id": "000023",
+      "name": "ROI4",
+      "center_px": [
+        4033,
+        3241
+      ],
+      "center_latlon": [
+        22.68872645,
+        114.20417454
+      ],
+      "frames": [
+        {
+          "video": "kyl",
+          "frame": 0
+        }
+      ]
+    },
+    {
+      "id": "000024",
+      "name": "ROI4",
+      "center_px": [
+        4033,
+        3313
+      ],
+      "center_latlon": [
+        22.68854827,
+        114.20417454
+      ],
+      "frames": [
+        {
+          "video": "kyl",
+          "frame": 1
+        }
+      ]
+    },
+    {
+      "id": "000025",
+      "name": "ROI4",
+      "center_px": [
+        4106,
+        3531
+      ],
+      "center_latlon": [
+        22.68800881,
+        114.20437034
+      ],
+      "frames": [
+        {
+          "video": "kyl",
+          "frame": 2
+        }
+      ]
+    },
+    {
+      "id": "000026",
+      "name": "ROI4",
+      "center_px": [
+        4106,
+        3386
+      ],
+      "center_latlon": [
+        22.68836763,
+        114.20437034
+      ],
+      "frames": [
+        {
+          "video": "kyl",
+          "frame": 3
+        }
+      ]
+    },
+    {
+      "id": "000027",
+      "name": "ROI4",
+      "center_px": [
+        4179,
+        3386
+      ],
+      "center_latlon": [
+        22.68836763,
+        114.20456614
+      ],
+      "frames": [
+        {
+          "video": "kyl",
+          "frame": 4
+        },
+        {
+          "video": "kyl",
+          "frame": 5
+        }
+      ]
+    },
+    {
+      "id": "000028",
+      "name": "ROI4",
+      "center_px": [
+        4251,
+        3386
+      ],
+      "center_latlon": [
+        22.68836763,
+        114.20475926
+      ],
+      "frames": [
+        {
+          "video": "kyl",
+          "frame": 6
+        },
+        {
+          "video": "kyl",
+          "frame": 7
+        }
+      ]
+    },
+    {
+      "id": "000029",
+      "name": "ROI4",
+      "center_px": [
+        4396,
+        3313
+      ],
+      "center_latlon": [
+        22.68854827,
+        114.20514818
+      ],
+      "frames": [
+        {
+          "video": "kyl",
+          "frame": 8
+        }
+      ]
+    },
+    {
+      "id": "000030",
+      "name": "ROI4",
+      "center_px": [
+        4469,
+        3241
+      ],
+      "center_latlon": [
+        22.68872645,
+        114.20534398
+      ],
+      "frames": [
+        {
+          "video": "kyl",
+          "frame": 9
+        }
+      ]
+    },
+    {
+      "id": "000031",
+      "name": "ROI4",
+      "center_px": [
+        4324,
+        3241
+      ],
+      "center_latlon": [
+        22.68872645,
+        114.20495506
+      ],
+      "frames": [
+        {
+          "video": "kyl",
+          "frame": 10
+        }
+      ]
+    },
+    {
+      "id": "000032",
+      "name": "ROI4",
+      "center_px": [
+        6066,
+        1135
+      ],
+      "center_latlon": [
+        22.69393795,
+        114.20962747
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 0
+        }
+      ]
+    },
+    {
+      "id": "000033",
+      "name": "ROI4",
+      "center_px": [
+        5994,
+        990
+      ],
+      "center_latlon": [
+        22.69429676,
+        114.20943435
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 1
+        }
+      ]
+    },
+    {
+      "id": "000034",
+      "name": "ROI4",
+      "center_px": [
+        5921,
+        917
+      ],
+      "center_latlon": [
+        22.69447741,
+        114.20923855
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 2
+        }
+      ]
+    },
+    {
+      "id": "000035",
+      "name": "ROI4",
+      "center_px": [
+        5994,
+        917
+      ],
+      "center_latlon": [
+        22.69447741,
+        114.20943435
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 3
+        }
+      ]
+    },
+    {
+      "id": "000036",
+      "name": "ROI4",
+      "center_px": [
+        6066,
+        772
+      ],
+      "center_latlon": [
+        22.69483623,
+        114.20962747
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 4
+        }
+      ]
+    },
+    {
+      "id": "000037",
+      "name": "ROI4",
+      "center_px": [
+        6066,
+        627
+      ],
+      "center_latlon": [
+        22.69519504,
+        114.20962747
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 5
+        }
+      ]
+    },
+    {
+      "id": "000038",
+      "name": "ROI4",
+      "center_px": [
+        6066,
+        699
+      ],
+      "center_latlon": [
+        22.69501687,
+        114.20962747
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 6
+        }
+      ]
+    },
+    {
+      "id": "000039",
+      "name": "ROI4",
+      "center_px": [
+        6212,
+        699
+      ],
+      "center_latlon": [
+        22.69501687,
+        114.21001907
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 7
+        }
+      ]
+    },
+    {
+      "id": "000040",
+      "name": "ROI4",
+      "center_px": [
+        6357,
+        627
+      ],
+      "center_latlon": [
+        22.69519504,
+        114.21040799
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 8
+        }
+      ]
+    },
+    {
+      "id": "000041",
+      "name": "ROI4",
+      "center_px": [
+        6429,
+        699
+      ],
+      "center_latlon": [
+        22.69501687,
+        114.21060111
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 9
+        }
+      ]
+    },
+    {
+      "id": "000042",
+      "name": "ROI4",
+      "center_px": [
+        6502,
+        772
+      ],
+      "center_latlon": [
+        22.69483623,
+        114.21079691
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 10
+        }
+      ]
+    },
+    {
+      "id": "000043",
+      "name": "ROI4",
+      "center_px": [
+        6575,
+        845
+      ],
+      "center_latlon": [
+        22.69465558,
+        114.21099271
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 11
+        }
+      ]
+    },
+    {
+      "id": "000044",
+      "name": "ROI4",
+      "center_px": [
+        6429,
+        772
+      ],
+      "center_latlon": [
+        22.69483623,
+        114.21060111
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 12
+        }
+      ]
+    },
+    {
+      "id": "000045",
+      "name": "ROI4",
+      "center_px": [
+        6357,
+        845
+      ],
+      "center_latlon": [
+        22.69465558,
+        114.21040799
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 13
+        }
+      ]
+    },
+    {
+      "id": "000046",
+      "name": "ROI4",
+      "center_px": [
+        6429,
+        845
+      ],
+      "center_latlon": [
+        22.69465558,
+        114.21060111
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 14
+        }
+      ]
+    },
+    {
+      "id": "000047",
+      "name": "ROI4",
+      "center_px": [
+        6429,
+        990
+      ],
+      "center_latlon": [
+        22.69429676,
+        114.21060111
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 15
+        }
+      ]
+    },
+    {
+      "id": "000048",
+      "name": "ROI4",
+      "center_px": [
+        6429,
+        1062
+      ],
+      "center_latlon": [
+        22.69411859,
+        114.21060111
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 16
+        }
+      ]
+    },
+    {
+      "id": "000049",
+      "name": "ROI4",
+      "center_px": [
+        6357,
+        1135
+      ],
+      "center_latlon": [
+        22.69393795,
+        114.21040799
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 17
+        }
+      ]
+    },
+    {
+      "id": "000050",
+      "name": "ROI4",
+      "center_px": [
+        6284,
+        1208
+      ],
+      "center_latlon": [
+        22.6937573,
+        114.21021219
+      ],
+      "frames": [
+        {
+          "video": "liwentang",
+          "frame": 18
+        }
+      ]
+    },
+    {
+      "id": "000051",
+      "name": "ROI1",
+      "center_px": [
+        1502,
+        1375
+      ],
+      "center_latlon": [
+        22.69334404,
+        114.19738586
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 0
+        }
+      ]
+    },
+    {
+      "id": "000052",
+      "name": "ROI1",
+      "center_px": [
+        1575,
+        1375
+      ],
+      "center_latlon": [
+        22.69334404,
+        114.19758167
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 1
+        }
+      ]
+    },
+    {
+      "id": "000053",
+      "name": "ROI1",
+      "center_px": [
+        1720,
+        1375
+      ],
+      "center_latlon": [
+        22.69334404,
+        114.19797059
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 2
+        }
+      ]
+    },
+    {
+      "id": "000054",
+      "name": "ROI1",
+      "center_px": [
+        1647,
+        1520
+      ],
+      "center_latlon": [
+        22.69298523,
+        114.19777478
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 3
+        }
+      ]
+    },
+    {
+      "id": "000055",
+      "name": "ROI1",
+      "center_px": [
+        1647,
+        1593
+      ],
+      "center_latlon": [
+        22.69280458,
+        114.19777478
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 4
+        }
+      ]
+    },
+    {
+      "id": "000056",
+      "name": "ROI1",
+      "center_px": [
+        1720,
+        1593
+      ],
+      "center_latlon": [
+        22.69280458,
+        114.19797059
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 5
+        }
+      ]
+    },
+    {
+      "id": "000057",
+      "name": "ROI1",
+      "center_px": [
+        1793,
+        1593
+      ],
+      "center_latlon": [
+        22.69280458,
+        114.19816639
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 6
+        }
+      ]
+    },
+    {
+      "id": "000058",
+      "name": "ROI1",
+      "center_px": [
+        1647,
+        1665
+      ],
+      "center_latlon": [
+        22.69262641,
+        114.19777478
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 7
+        }
+      ]
+    },
+    {
+      "id": "000059",
+      "name": "ROI1",
+      "center_px": [
+        1575,
+        1738
+      ],
+      "center_latlon": [
+        22.69244577,
+        114.19758167
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 8
+        }
+      ]
+    },
+    {
+      "id": "000060",
+      "name": "ROI1",
+      "center_px": [
+        1502,
+        1738
+      ],
+      "center_latlon": [
+        22.69244577,
+        114.19738586
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 9
+        }
+      ]
+    },
+    {
+      "id": "000061",
+      "name": "ROI1",
+      "center_px": [
+        1430,
+        1665
+      ],
+      "center_latlon": [
+        22.69262641,
+        114.19719275
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 10
+        }
+      ]
+    },
+    {
+      "id": "000062",
+      "name": "ROI1",
+      "center_px": [
+        1357,
+        1593
+      ],
+      "center_latlon": [
+        22.69280458,
+        114.19699694
+      ],
+      "frames": [
+        {
+          "video": "siting",
+          "frame": 11
+        }
+      ]
+    },
+    {
+      "id": "000063",
+      "name": "ROI4",
+      "center_px": [
+        4614,
+        3386
+      ],
+      "center_latlon": [
+        22.68836763,
+        114.2057329
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 0
+        },
+        {
+          "video": "stadium",
+          "frame": 18
+        }
+      ]
+    },
+    {
+      "id": "000064",
+      "name": "ROI4",
+      "center_px": [
+        4687,
+        3458
+      ],
+      "center_latlon": [
+        22.68818946,
+        114.2059287
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 1
+        }
+      ]
+    },
+    {
+      "id": "000065",
+      "name": "ROI4",
+      "center_px": [
+        4759,
+        3531
+      ],
+      "center_latlon": [
+        22.68800881,
+        114.20612182
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 2
+        },
+        {
+          "video": "stadium",
+          "frame": 3
+        }
+      ]
+    },
+    {
+      "id": "000066",
+      "name": "ROI4",
+      "center_px": [
+        4832,
+        3676
+      ],
+      "center_latlon": [
+        22.68765,
+        114.20631762
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 4
+        }
+      ]
+    },
+    {
+      "id": "000067",
+      "name": "ROI4",
+      "center_px": [
+        4759,
+        3676
+      ],
+      "center_latlon": [
+        22.68765,
+        114.20612182
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 5
+        }
+      ]
+    },
+    {
+      "id": "000068",
+      "name": "ROI4",
+      "center_px": [
+        4759,
+        3749
+      ],
+      "center_latlon": [
+        22.68746935,
+        114.20612182
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 6
+        }
+      ]
+    },
+    {
+      "id": "000069",
+      "name": "ROI4",
+      "center_px": [
+        4687,
+        3749
+      ],
+      "center_latlon": [
+        22.68746935,
+        114.2059287
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 7
+        }
+      ]
+    },
+    {
+      "id": "000070",
+      "name": "ROI4",
+      "center_px": [
+        4614,
+        3749
+      ],
+      "center_latlon": [
+        22.68746935,
+        114.2057329
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 8
+        },
+        {
+          "video": "stadium",
+          "frame": 9
+        }
+      ]
+    },
+    {
+      "id": "000071",
+      "name": "ROI4",
+      "center_px": [
+        4542,
+        3676
+      ],
+      "center_latlon": [
+        22.68765,
+        114.20553978
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 10
+        }
+      ]
+    },
+    {
+      "id": "000072",
+      "name": "ROI4",
+      "center_px": [
+        4396,
+        3604
+      ],
+      "center_latlon": [
+        22.68782817,
+        114.20514818
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 11
+        },
+        {
+          "video": "stadium",
+          "frame": 12
+        }
+      ]
+    },
+    {
+      "id": "000073",
+      "name": "ROI4",
+      "center_px": [
+        4396,
+        3531
+      ],
+      "center_latlon": [
+        22.68800881,
+        114.20514818
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 13
+        }
+      ]
+    },
+    {
+      "id": "000074",
+      "name": "ROI4",
+      "center_px": [
+        4396,
+        3458
+      ],
+      "center_latlon": [
+        22.68818946,
+        114.20514818
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 14
+        }
+      ]
+    },
+    {
+      "id": "000075",
+      "name": "ROI4",
+      "center_px": [
+        4469,
+        3458
+      ],
+      "center_latlon": [
+        22.68818946,
+        114.20534398
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 15
+        }
+      ]
+    },
+    {
+      "id": "000076",
+      "name": "ROI4",
+      "center_px": [
+        4542,
+        3458
+      ],
+      "center_latlon": [
+        22.68818946,
+        114.20553978
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 16
+        }
+      ]
+    },
+    {
+      "id": "000077",
+      "name": "ROI4",
+      "center_px": [
+        4542,
+        3386
+      ],
+      "center_latlon": [
+        22.68836763,
+        114.20553978
+      ],
+      "frames": [
+        {
+          "video": "stadium",
+          "frame": 17
+        }
+      ]
+    },
+    {
+      "id": "000078",
+      "name": "ROI1",
+      "center_px": [
+        1793,
+        1157
+      ],
+      "center_latlon": [
+        22.69388351,
+        114.19816639
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 0
+        },
+        {
+          "video": "xueqing",
+          "frame": 15
+        }
+      ]
+    },
+    {
+      "id": "000079",
+      "name": "ROI1",
+      "center_px": [
+        1865,
+        1085
+      ],
+      "center_latlon": [
+        22.69406168,
+        114.19835951
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 1
+        }
+      ]
+    },
+    {
+      "id": "000080",
+      "name": "ROI1",
+      "center_px": [
+        1938,
+        1012
+      ],
+      "center_latlon": [
+        22.69424232,
+        114.19855531
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 2
+        }
+      ]
+    },
+    {
+      "id": "000081",
+      "name": "ROI1",
+      "center_px": [
+        2010,
+        1230
+      ],
+      "center_latlon": [
+        22.69370286,
+        114.19874843
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 3
+        }
+      ]
+    },
+    {
+      "id": "000082",
+      "name": "ROI1",
+      "center_px": [
+        2083,
+        1230
+      ],
+      "center_latlon": [
+        22.69370286,
+        114.19894423
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 4
+        }
+      ]
+    },
+    {
+      "id": "000083",
+      "name": "ROI1",
+      "center_px": [
+        2083,
+        1302
+      ],
+      "center_latlon": [
+        22.69352469,
+        114.19894423
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 5
+        }
+      ]
+    },
+    {
+      "id": "000084",
+      "name": "ROI1",
+      "center_px": [
+        2083,
+        1375
+      ],
+      "center_latlon": [
+        22.69334404,
+        114.19894423
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 6
+        }
+      ]
+    },
+    {
+      "id": "000085",
+      "name": "ROI1",
+      "center_px": [
+        2083,
+        1520
+      ],
+      "center_latlon": [
+        22.69298523,
+        114.19894423
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 7
+        }
+      ]
+    },
+    {
+      "id": "000086",
+      "name": "ROI1",
+      "center_px": [
+        2010,
+        1520
+      ],
+      "center_latlon": [
+        22.69298523,
+        114.19874843
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 8
+        }
+      ]
+    },
+    {
+      "id": "000087",
+      "name": "ROI1",
+      "center_px": [
+        2010,
+        1593
+      ],
+      "center_latlon": [
+        22.69280458,
+        114.19874843
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 9
+        }
+      ]
+    },
+    {
+      "id": "000088",
+      "name": "ROI1",
+      "center_px": [
+        2010,
+        1665
+      ],
+      "center_latlon": [
+        22.69262641,
+        114.19874843
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 10
+        }
+      ]
+    },
+    {
+      "id": "000089",
+      "name": "ROI1",
+      "center_px": [
+        1938,
+        1448
+      ],
+      "center_latlon": [
+        22.6931634,
+        114.19855531
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 11
+        }
+      ]
+    },
+    {
+      "id": "000090",
+      "name": "ROI1",
+      "center_px": [
+        1865,
+        1375
+      ],
+      "center_latlon": [
+        22.69334404,
+        114.19835951
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 12
+        }
+      ]
+    },
+    {
+      "id": "000091",
+      "name": "ROI1",
+      "center_px": [
+        1865,
+        1302
+      ],
+      "center_latlon": [
+        22.69352469,
+        114.19835951
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 13
+        }
+      ]
+    },
+    {
+      "id": "000092",
+      "name": "ROI1",
+      "center_px": [
+        1865,
+        1230
+      ],
+      "center_latlon": [
+        22.69370286,
+        114.19835951
+      ],
+      "frames": [
+        {
+          "video": "xueqing",
+          "frame": 14
+        }
+      ]
+    }
+  ]
+}

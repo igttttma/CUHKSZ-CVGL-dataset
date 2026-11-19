@@ -1,0 +1,959 @@
+{
+  "protocol": "one drone frame matches the three-scale satellite crops of its assigned center point",
+  "queries": [
+    {
+      "query": "test/query_drone/000000/CD_f0000.jpg",
+      "class_id": "000000",
+      "positives": [
+        "test/gallery_satellite/000000/H80.tif",
+        "test/gallery_satellite/000000/H90.tif",
+        "test/gallery_satellite/000000/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000001/CD_f0001.jpg",
+      "class_id": "000001",
+      "positives": [
+        "test/gallery_satellite/000001/H80.tif",
+        "test/gallery_satellite/000001/H90.tif",
+        "test/gallery_satellite/000001/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000002/CD_f0002.jpg",
+      "class_id": "000002",
+      "positives": [
+        "test/gallery_satellite/000002/H80.tif",
+        "test/gallery_satellite/000002/H90.tif",
+        "test/gallery_satellite/000002/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000003/CD_f0003.jpg",
+      "class_id": "000003",
+      "positives": [
+        "test/gallery_satellite/000003/H80.tif",
+        "test/gallery_satellite/000003/H90.tif",
+        "test/gallery_satellite/000003/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000004/CD_f0004.jpg",
+      "class_id": "000004",
+      "positives": [
+        "test/gallery_satellite/000004/H80.tif",
+        "test/gallery_satellite/000004/H90.tif",
+        "test/gallery_satellite/000004/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000004/CD_f0005.jpg",
+      "class_id": "000004",
+      "positives": [
+        "test/gallery_satellite/000004/H80.tif",
+        "test/gallery_satellite/000004/H90.tif",
+        "test/gallery_satellite/000004/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000005/CD_f0006.jpg",
+      "class_id": "000005",
+      "positives": [
+        "test/gallery_satellite/000005/H80.tif",
+        "test/gallery_satellite/000005/H90.tif",
+        "test/gallery_satellite/000005/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000005/CD_f0008.jpg",
+      "class_id": "000005",
+      "positives": [
+        "test/gallery_satellite/000005/H80.tif",
+        "test/gallery_satellite/000005/H90.tif",
+        "test/gallery_satellite/000005/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000005/CD_f0009.jpg",
+      "class_id": "000005",
+      "positives": [
+        "test/gallery_satellite/000005/H80.tif",
+        "test/gallery_satellite/000005/H90.tif",
+        "test/gallery_satellite/000005/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000005/CD_f0010.jpg",
+      "class_id": "000005",
+      "positives": [
+        "test/gallery_satellite/000005/H80.tif",
+        "test/gallery_satellite/000005/H90.tif",
+        "test/gallery_satellite/000005/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000006/CD_f0007.jpg",
+      "class_id": "000006",
+      "positives": [
+        "test/gallery_satellite/000006/H80.tif",
+        "test/gallery_satellite/000006/H90.tif",
+        "test/gallery_satellite/000006/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000007/CD_f0011.jpg",
+      "class_id": "000007",
+      "positives": [
+        "test/gallery_satellite/000007/H80.tif",
+        "test/gallery_satellite/000007/H90.tif",
+        "test/gallery_satellite/000007/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000007/CD_f0012.jpg",
+      "class_id": "000007",
+      "positives": [
+        "test/gallery_satellite/000007/H80.tif",
+        "test/gallery_satellite/000007/H90.tif",
+        "test/gallery_satellite/000007/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000008/CD_f0013.jpg",
+      "class_id": "000008",
+      "positives": [
+        "test/gallery_satellite/000008/H80.tif",
+        "test/gallery_satellite/000008/H90.tif",
+        "test/gallery_satellite/000008/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000009/houhan_f0000.jpg",
+      "class_id": "000009",
+      "positives": [
+        "test/gallery_satellite/000009/H80.tif",
+        "test/gallery_satellite/000009/H90.tif",
+        "test/gallery_satellite/000009/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000010/houhan_f0001.jpg",
+      "class_id": "000010",
+      "positives": [
+        "test/gallery_satellite/000010/H80.tif",
+        "test/gallery_satellite/000010/H90.tif",
+        "test/gallery_satellite/000010/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000011/houhan_f0002.jpg",
+      "class_id": "000011",
+      "positives": [
+        "test/gallery_satellite/000011/H80.tif",
+        "test/gallery_satellite/000011/H90.tif",
+        "test/gallery_satellite/000011/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000012/houhan_f0003.jpg",
+      "class_id": "000012",
+      "positives": [
+        "test/gallery_satellite/000012/H80.tif",
+        "test/gallery_satellite/000012/H90.tif",
+        "test/gallery_satellite/000012/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000013/houhan_f0004.jpg",
+      "class_id": "000013",
+      "positives": [
+        "test/gallery_satellite/000013/H80.tif",
+        "test/gallery_satellite/000013/H90.tif",
+        "test/gallery_satellite/000013/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000014/houhan_f0005.jpg",
+      "class_id": "000014",
+      "positives": [
+        "test/gallery_satellite/000014/H80.tif",
+        "test/gallery_satellite/000014/H90.tif",
+        "test/gallery_satellite/000014/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000015/houhan_f0006.jpg",
+      "class_id": "000015",
+      "positives": [
+        "test/gallery_satellite/000015/H80.tif",
+        "test/gallery_satellite/000015/H90.tif",
+        "test/gallery_satellite/000015/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000016/houhan_f0007.jpg",
+      "class_id": "000016",
+      "positives": [
+        "test/gallery_satellite/000016/H80.tif",
+        "test/gallery_satellite/000016/H90.tif",
+        "test/gallery_satellite/000016/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000017/houhan_f0008.jpg",
+      "class_id": "000017",
+      "positives": [
+        "test/gallery_satellite/000017/H80.tif",
+        "test/gallery_satellite/000017/H90.tif",
+        "test/gallery_satellite/000017/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000018/houhan_f0009.jpg",
+      "class_id": "000018",
+      "positives": [
+        "test/gallery_satellite/000018/H80.tif",
+        "test/gallery_satellite/000018/H90.tif",
+        "test/gallery_satellite/000018/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000019/houhan_f0010.jpg",
+      "class_id": "000019",
+      "positives": [
+        "test/gallery_satellite/000019/H80.tif",
+        "test/gallery_satellite/000019/H90.tif",
+        "test/gallery_satellite/000019/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000020/houhan_f0011.jpg",
+      "class_id": "000020",
+      "positives": [
+        "test/gallery_satellite/000020/H80.tif",
+        "test/gallery_satellite/000020/H90.tif",
+        "test/gallery_satellite/000020/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000020/houhan_f0012.jpg",
+      "class_id": "000020",
+      "positives": [
+        "test/gallery_satellite/000020/H80.tif",
+        "test/gallery_satellite/000020/H90.tif",
+        "test/gallery_satellite/000020/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000021/houhan_f0013.jpg",
+      "class_id": "000021",
+      "positives": [
+        "test/gallery_satellite/000021/H80.tif",
+        "test/gallery_satellite/000021/H90.tif",
+        "test/gallery_satellite/000021/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000022/houhan_f0014.jpg",
+      "class_id": "000022",
+      "positives": [
+        "test/gallery_satellite/000022/H80.tif",
+        "test/gallery_satellite/000022/H90.tif",
+        "test/gallery_satellite/000022/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000023/kyl_f0000.jpg",
+      "class_id": "000023",
+      "positives": [
+        "test/gallery_satellite/000023/H80.tif",
+        "test/gallery_satellite/000023/H90.tif",
+        "test/gallery_satellite/000023/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000024/kyl_f0001.jpg",
+      "class_id": "000024",
+      "positives": [
+        "test/gallery_satellite/000024/H80.tif",
+        "test/gallery_satellite/000024/H90.tif",
+        "test/gallery_satellite/000024/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000025/kyl_f0002.jpg",
+      "class_id": "000025",
+      "positives": [
+        "test/gallery_satellite/000025/H80.tif",
+        "test/gallery_satellite/000025/H90.tif",
+        "test/gallery_satellite/000025/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000026/kyl_f0003.jpg",
+      "class_id": "000026",
+      "positives": [
+        "test/gallery_satellite/000026/H80.tif",
+        "test/gallery_satellite/000026/H90.tif",
+        "test/gallery_satellite/000026/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000027/kyl_f0004.jpg",
+      "class_id": "000027",
+      "positives": [
+        "test/gallery_satellite/000027/H80.tif",
+        "test/gallery_satellite/000027/H90.tif",
+        "test/gallery_satellite/000027/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000027/kyl_f0005.jpg",
+      "class_id": "000027",
+      "positives": [
+        "test/gallery_satellite/000027/H80.tif",
+        "test/gallery_satellite/000027/H90.tif",
+        "test/gallery_satellite/000027/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000028/kyl_f0006.jpg",
+      "class_id": "000028",
+      "positives": [
+        "test/gallery_satellite/000028/H80.tif",
+        "test/gallery_satellite/000028/H90.tif",
+        "test/gallery_satellite/000028/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000028/kyl_f0007.jpg",
+      "class_id": "000028",
+      "positives": [
+        "test/gallery_satellite/000028/H80.tif",
+        "test/gallery_satellite/000028/H90.tif",
+        "test/gallery_satellite/000028/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000029/kyl_f0008.jpg",
+      "class_id": "000029",
+      "positives": [
+        "test/gallery_satellite/000029/H80.tif",
+        "test/gallery_satellite/000029/H90.tif",
+        "test/gallery_satellite/000029/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000030/kyl_f0009.jpg",
+      "class_id": "000030",
+      "positives": [
+        "test/gallery_satellite/000030/H80.tif",
+        "test/gallery_satellite/000030/H90.tif",
+        "test/gallery_satellite/000030/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000031/kyl_f0010.jpg",
+      "class_id": "000031",
+      "positives": [
+        "test/gallery_satellite/000031/H80.tif",
+        "test/gallery_satellite/000031/H90.tif",
+        "test/gallery_satellite/000031/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000032/liwentang_f0000.jpg",
+      "class_id": "000032",
+      "positives": [
+        "test/gallery_satellite/000032/H80.tif",
+        "test/gallery_satellite/000032/H90.tif",
+        "test/gallery_satellite/000032/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000033/liwentang_f0001.jpg",
+      "class_id": "000033",
+      "positives": [
+        "test/gallery_satellite/000033/H80.tif",
+        "test/gallery_satellite/000033/H90.tif",
+        "test/gallery_satellite/000033/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000034/liwentang_f0002.jpg",
+      "class_id": "000034",
+      "positives": [
+        "test/gallery_satellite/000034/H80.tif",
+        "test/gallery_satellite/000034/H90.tif",
+        "test/gallery_satellite/000034/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000035/liwentang_f0003.jpg",
+      "class_id": "000035",
+      "positives": [
+        "test/gallery_satellite/000035/H80.tif",
+        "test/gallery_satellite/000035/H90.tif",
+        "test/gallery_satellite/000035/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000036/liwentang_f0004.jpg",
+      "class_id": "000036",
+      "positives": [
+        "test/gallery_satellite/000036/H80.tif",
+        "test/gallery_satellite/000036/H90.tif",
+        "test/gallery_satellite/000036/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000037/liwentang_f0005.jpg",
+      "class_id": "000037",
+      "positives": [
+        "test/gallery_satellite/000037/H80.tif",
+        "test/gallery_satellite/000037/H90.tif",
+        "test/gallery_satellite/000037/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000038/liwentang_f0006.jpg",
+      "class_id": "000038",
+      "positives": [
+        "test/gallery_satellite/000038/H80.tif",
+        "test/gallery_satellite/000038/H90.tif",
+        "test/gallery_satellite/000038/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000039/liwentang_f0007.jpg",
+      "class_id": "000039",
+      "positives": [
+        "test/gallery_satellite/000039/H80.tif",
+        "test/gallery_satellite/000039/H90.tif",
+        "test/gallery_satellite/000039/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000040/liwentang_f0008.jpg",
+      "class_id": "000040",
+      "positives": [
+        "test/gallery_satellite/000040/H80.tif",
+        "test/gallery_satellite/000040/H90.tif",
+        "test/gallery_satellite/000040/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000041/liwentang_f0009.jpg",
+      "class_id": "000041",
+      "positives": [
+        "test/gallery_satellite/000041/H80.tif",
+        "test/gallery_satellite/000041/H90.tif",
+        "test/gallery_satellite/000041/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000042/liwentang_f0010.jpg",
+      "class_id": "000042",
+      "positives": [
+        "test/gallery_satellite/000042/H80.tif",
+        "test/gallery_satellite/000042/H90.tif",
+        "test/gallery_satellite/000042/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000043/liwentang_f0011.jpg",
+      "class_id": "000043",
+      "positives": [
+        "test/gallery_satellite/000043/H80.tif",
+        "test/gallery_satellite/000043/H90.tif",
+        "test/gallery_satellite/000043/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000044/liwentang_f0012.jpg",
+      "class_id": "000044",
+      "positives": [
+        "test/gallery_satellite/000044/H80.tif",
+        "test/gallery_satellite/000044/H90.tif",
+        "test/gallery_satellite/000044/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000045/liwentang_f0013.jpg",
+      "class_id": "000045",
+      "positives": [
+        "test/gallery_satellite/000045/H80.tif",
+        "test/gallery_satellite/000045/H90.tif",
+        "test/gallery_satellite/000045/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000046/liwentang_f0014.jpg",
+      "class_id": "000046",
+      "positives": [
+        "test/gallery_satellite/000046/H80.tif",
+        "test/gallery_satellite/000046/H90.tif",
+        "test/gallery_satellite/000046/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000047/liwentang_f0015.jpg",
+      "class_id": "000047",
+      "positives": [
+        "test/gallery_satellite/000047/H80.tif",
+        "test/gallery_satellite/000047/H90.tif",
+        "test/gallery_satellite/000047/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000048/liwentang_f0016.jpg",
+      "class_id": "000048",
+      "positives": [
+        "test/gallery_satellite/000048/H80.tif",
+        "test/gallery_satellite/000048/H90.tif",
+        "test/gallery_satellite/000048/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000049/liwentang_f0017.jpg",
+      "class_id": "000049",
+      "positives": [
+        "test/gallery_satellite/000049/H80.tif",
+        "test/gallery_satellite/000049/H90.tif",
+        "test/gallery_satellite/000049/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000050/liwentang_f0018.jpg",
+      "class_id": "000050",
+      "positives": [
+        "test/gallery_satellite/000050/H80.tif",
+        "test/gallery_satellite/000050/H90.tif",
+        "test/gallery_satellite/000050/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000051/siting_f0000.jpg",
+      "class_id": "000051",
+      "positives": [
+        "test/gallery_satellite/000051/H80.tif",
+        "test/gallery_satellite/000051/H90.tif",
+        "test/gallery_satellite/000051/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000052/siting_f0001.jpg",
+      "class_id": "000052",
+      "positives": [
+        "test/gallery_satellite/000052/H80.tif",
+        "test/gallery_satellite/000052/H90.tif",
+        "test/gallery_satellite/000052/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000053/siting_f0002.jpg",
+      "class_id": "000053",
+      "positives": [
+        "test/gallery_satellite/000053/H80.tif",
+        "test/gallery_satellite/000053/H90.tif",
+        "test/gallery_satellite/000053/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000054/siting_f0003.jpg",
+      "class_id": "000054",
+      "positives": [
+        "test/gallery_satellite/000054/H80.tif",
+        "test/gallery_satellite/000054/H90.tif",
+        "test/gallery_satellite/000054/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000055/siting_f0004.jpg",
+      "class_id": "000055",
+      "positives": [
+        "test/gallery_satellite/000055/H80.tif",
+        "test/gallery_satellite/000055/H90.tif",
+        "test/gallery_satellite/000055/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000056/siting_f0005.jpg",
+      "class_id": "000056",
+      "positives": [
+        "test/gallery_satellite/000056/H80.tif",
+        "test/gallery_satellite/000056/H90.tif",
+        "test/gallery_satellite/000056/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000057/siting_f0006.jpg",
+      "class_id": "000057",
+      "positives": [
+        "test/gallery_satellite/000057/H80.tif",
+        "test/gallery_satellite/000057/H90.tif",
+        "test/gallery_satellite/000057/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000058/siting_f0007.jpg",
+      "class_id": "000058",
+      "positives": [
+        "test/gallery_satellite/000058/H80.tif",
+        "test/gallery_satellite/000058/H90.tif",
+        "test/gallery_satellite/000058/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000059/siting_f0008.jpg",
+      "class_id": "000059",
+      "positives": [
+        "test/gallery_satellite/000059/H80.tif",
+        "test/gallery_satellite/000059/H90.tif",
+        "test/gallery_satellite/000059/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000060/siting_f0009.jpg",
+      "class_id": "000060",
+      "positives": [
+        "test/gallery_satellite/000060/H80.tif",
+        "test/gallery_satellite/000060/H90.tif",
+        "test/gallery_satellite/000060/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000061/siting_f0010.jpg",
+      "class_id": "000061",
+      "positives": [
+        "test/gallery_satellite/000061/H80.tif",
+        "test/gallery_satellite/000061/H90.tif",
+        "test/gallery_satellite/000061/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000062/siting_f0011.jpg",
+      "class_id": "000062",
+      "positives": [
+        "test/gallery_satellite/000062/H80.tif",
+        "test/gallery_satellite/000062/H90.tif",
+        "test/gallery_satellite/000062/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000063/stadium_f0000.jpg",
+      "class_id": "000063",
+      "positives": [
+        "test/gallery_satellite/000063/H80.tif",
+        "test/gallery_satellite/000063/H90.tif",
+        "test/gallery_satellite/000063/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000063/stadium_f0018.jpg",
+      "class_id": "000063",
+      "positives": [
+        "test/gallery_satellite/000063/H80.tif",
+        "test/gallery_satellite/000063/H90.tif",
+        "test/gallery_satellite/000063/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000064/stadium_f0001.jpg",
+      "class_id": "000064",
+      "positives": [
+        "test/gallery_satellite/000064/H80.tif",
+        "test/gallery_satellite/000064/H90.tif",
+        "test/gallery_satellite/000064/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000065/stadium_f0002.jpg",
+      "class_id": "000065",
+      "positives": [
+        "test/gallery_satellite/000065/H80.tif",
+        "test/gallery_satellite/000065/H90.tif",
+        "test/gallery_satellite/000065/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000065/stadium_f0003.jpg",
+      "class_id": "000065",
+      "positives": [
+        "test/gallery_satellite/000065/H80.tif",
+        "test/gallery_satellite/000065/H90.tif",
+        "test/gallery_satellite/000065/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000066/stadium_f0004.jpg",
+      "class_id": "000066",
+      "positives": [
+        "test/gallery_satellite/000066/H80.tif",
+        "test/gallery_satellite/000066/H90.tif",
+        "test/gallery_satellite/000066/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000067/stadium_f0005.jpg",
+      "class_id": "000067",
+      "positives": [
+        "test/gallery_satellite/000067/H80.tif",
+        "test/gallery_satellite/000067/H90.tif",
+        "test/gallery_satellite/000067/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000068/stadium_f0006.jpg",
+      "class_id": "000068",
+      "positives": [
+        "test/gallery_satellite/000068/H80.tif",
+        "test/gallery_satellite/000068/H90.tif",
+        "test/gallery_satellite/000068/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000069/stadium_f0007.jpg",
+      "class_id": "000069",
+      "positives": [
+        "test/gallery_satellite/000069/H80.tif",
+        "test/gallery_satellite/000069/H90.tif",
+        "test/gallery_satellite/000069/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000070/stadium_f0008.jpg",
+      "class_id": "000070",
+      "positives": [
+        "test/gallery_satellite/000070/H80.tif",
+        "test/gallery_satellite/000070/H90.tif",
+        "test/gallery_satellite/000070/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000070/stadium_f0009.jpg",
+      "class_id": "000070",
+      "positives": [
+        "test/gallery_satellite/000070/H80.tif",
+        "test/gallery_satellite/000070/H90.tif",
+        "test/gallery_satellite/000070/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000071/stadium_f0010.jpg",
+      "class_id": "000071",
+      "positives": [
+        "test/gallery_satellite/000071/H80.tif",
+        "test/gallery_satellite/000071/H90.tif",
+        "test/gallery_satellite/000071/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000072/stadium_f0011.jpg",
+      "class_id": "000072",
+      "positives": [
+        "test/gallery_satellite/000072/H80.tif",
+        "test/gallery_satellite/000072/H90.tif",
+        "test/gallery_satellite/000072/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000072/stadium_f0012.jpg",
+      "class_id": "000072",
+      "positives": [
+        "test/gallery_satellite/000072/H80.tif",
+        "test/gallery_satellite/000072/H90.tif",
+        "test/gallery_satellite/000072/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000073/stadium_f0013.jpg",
+      "class_id": "000073",
+      "positives": [
+        "test/gallery_satellite/000073/H80.tif",
+        "test/gallery_satellite/000073/H90.tif",
+        "test/gallery_satellite/000073/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000074/stadium_f0014.jpg",
+      "class_id": "000074",
+      "positives": [
+        "test/gallery_satellite/000074/H80.tif",
+        "test/gallery_satellite/000074/H90.tif",
+        "test/gallery_satellite/000074/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000075/stadium_f0015.jpg",
+      "class_id": "000075",
+      "positives": [
+        "test/gallery_satellite/000075/H80.tif",
+        "test/gallery_satellite/000075/H90.tif",
+        "test/gallery_satellite/000075/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000076/stadium_f0016.jpg",
+      "class_id": "000076",
+      "positives": [
+        "test/gallery_satellite/000076/H80.tif",
+        "test/gallery_satellite/000076/H90.tif",
+        "test/gallery_satellite/000076/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000077/stadium_f0017.jpg",
+      "class_id": "000077",
+      "positives": [
+        "test/gallery_satellite/000077/H80.tif",
+        "test/gallery_satellite/000077/H90.tif",
+        "test/gallery_satellite/000077/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000078/xueqing_f0000.jpg",
+      "class_id": "000078",
+      "positives": [
+        "test/gallery_satellite/000078/H80.tif",
+        "test/gallery_satellite/000078/H90.tif",
+        "test/gallery_satellite/000078/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000078/xueqing_f0015.jpg",
+      "class_id": "000078",
+      "positives": [
+        "test/gallery_satellite/000078/H80.tif",
+        "test/gallery_satellite/000078/H90.tif",
+        "test/gallery_satellite/000078/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000079/xueqing_f0001.jpg",
+      "class_id": "000079",
+      "positives": [
+        "test/gallery_satellite/000079/H80.tif",
+        "test/gallery_satellite/000079/H90.tif",
+        "test/gallery_satellite/000079/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000080/xueqing_f0002.jpg",
+      "class_id": "000080",
+      "positives": [
+        "test/gallery_satellite/000080/H80.tif",
+        "test/gallery_satellite/000080/H90.tif",
+        "test/gallery_satellite/000080/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000081/xueqing_f0003.jpg",
+      "class_id": "000081",
+      "positives": [
+        "test/gallery_satellite/000081/H80.tif",
+        "test/gallery_satellite/000081/H90.tif",
+        "test/gallery_satellite/000081/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000082/xueqing_f0004.jpg",
+      "class_id": "000082",
+      "positives": [
+        "test/gallery_satellite/000082/H80.tif",
+        "test/gallery_satellite/000082/H90.tif",
+        "test/gallery_satellite/000082/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000083/xueqing_f0005.jpg",
+      "class_id": "000083",
+      "positives": [
+        "test/gallery_satellite/000083/H80.tif",
+        "test/gallery_satellite/000083/H90.tif",
+        "test/gallery_satellite/000083/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000084/xueqing_f0006.jpg",
+      "class_id": "000084",
+      "positives": [
+        "test/gallery_satellite/000084/H80.tif",
+        "test/gallery_satellite/000084/H90.tif",
+        "test/gallery_satellite/000084/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000085/xueqing_f0007.jpg",
+      "class_id": "000085",
+      "positives": [
+        "test/gallery_satellite/000085/H80.tif",
+        "test/gallery_satellite/000085/H90.tif",
+        "test/gallery_satellite/000085/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000086/xueqing_f0008.jpg",
+      "class_id": "000086",
+      "positives": [
+        "test/gallery_satellite/000086/H80.tif",
+        "test/gallery_satellite/000086/H90.tif",
+        "test/gallery_satellite/000086/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000087/xueqing_f0009.jpg",
+      "class_id": "000087",
+      "positives": [
+        "test/gallery_satellite/000087/H80.tif",
+        "test/gallery_satellite/000087/H90.tif",
+        "test/gallery_satellite/000087/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000088/xueqing_f0010.jpg",
+      "class_id": "000088",
+      "positives": [
+        "test/gallery_satellite/000088/H80.tif",
+        "test/gallery_satellite/000088/H90.tif",
+        "test/gallery_satellite/000088/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000089/xueqing_f0011.jpg",
+      "class_id": "000089",
+      "positives": [
+        "test/gallery_satellite/000089/H80.tif",
+        "test/gallery_satellite/000089/H90.tif",
+        "test/gallery_satellite/000089/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000090/xueqing_f0012.jpg",
+      "class_id": "000090",
+      "positives": [
+        "test/gallery_satellite/000090/H80.tif",
+        "test/gallery_satellite/000090/H90.tif",
+        "test/gallery_satellite/000090/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000091/xueqing_f0013.jpg",
+      "class_id": "000091",
+      "positives": [
+        "test/gallery_satellite/000091/H80.tif",
+        "test/gallery_satellite/000091/H90.tif",
+        "test/gallery_satellite/000091/H100.tif"
+      ]
+    },
+    {
+      "query": "test/query_drone/000092/xueqing_f0014.jpg",
+      "class_id": "000092",
+      "positives": [
+        "test/gallery_satellite/000092/H80.tif",
+        "test/gallery_satellite/000092/H90.tif",
+        "test/gallery_satellite/000092/H100.tif"
+      ]
+    }
+  ]
+}
